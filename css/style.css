@@ -1,0 +1,21 @@
+button {
+    background-color: rgb(183, 196, 255);
+    border-radius: 5px;
+    height: 35px;
+    width: 70px;
+    
+
+}
+
+table {
+    border-collapse: separate;
+    border-spacing: 15px;
+}
+
+td {
+    border: 1px solid;
+    background-color: rgb(255, 225, 189);
+    padding: 10px;
+    border-radius: 5px;
+
+}
